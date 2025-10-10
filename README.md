@@ -48,5 +48,5 @@ Earn a SOC Analyst role where I can **detect, investigate, and explain** threats
 ---
 
 ### Contact
-- Email: YOUR.EMAIL@EXAMPLE.COM
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+- Email: salihanwar14@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gutama-abdi-95b208203/z
