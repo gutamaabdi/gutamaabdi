@@ -43,7 +43,7 @@ Earn a SOC Analyst role where I can **detect, investigate, and explain** threats
 > This portfolio currently spotlights one live, end‑to‑end project.
 
 - **Azure SOC Detection Lab (Splunk + Sysmon + DNS + Windows Firewall)** — *process → DNS → egress correlation, dashboard, MITRE mapping.*  
-  👉 **Repo:** https://github.com/YOUR-USERNAME/azure-soc-detection-lab
+  👉 **Repo:** [https://github.com/YOUR-USERNAME/azure-soc-detection-lab](https://github.com/gutamaabdi/azure/blob/main/README.md)
 
 ---
 
